@@ -1,0 +1,40 @@
+
+img {
+    height: 250px;
+    width: 250 px;
+    border-radius: 20px;
+    opacity: 50px;
+    
+}
+h1{
+    font-style: oblique;
+}
+h1 span {
+    color: blueviolet;
+    font-style: oblique;
+
+}
+
+div ul li a {
+    text-decoration-line: none;
+}
+table {
+    display: flex;
+    justify-content: center;
+ 
+}
+table tr td img {
+    height: 250px;
+    width: 250 px ;
+}
+*{
+    background-color: rgb(220, 194, 224);
+}
+div h2 {
+    color: rgb(46, 136, 136);
+}
+form {
+    display: flex;
+    justify-content: end;
+}
+
